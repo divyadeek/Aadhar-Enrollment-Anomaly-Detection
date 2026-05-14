@@ -71,3 +71,4 @@ Aadhaar-Enrollment-Anomaly-Detection
 
 ## 🚀 How to Run
 pip install -r requirements.txt
+## Documentation improvements by contributor
