@@ -1,14 +1,14 @@
 # Aadhaar Enrollment Trend & Anomaly Detection  
 AI-assisted trend and anomaly analysis of public Aadhaar enrollment data for sustainable digital governance.
 
-The project analyses **public Aadhaar enrollment data** for **Bengaluru Rural district, Karnataka** indentifying the longterm trends and detect anomalies using **AI-assisted statistical methods**.
+The project analyses **public Aadhaar enrollment data** for **Bengaluru Rural district, Karnataka** identifying the long-term trends and detect anomalies using **AI-assisted statistical methods**.
 
 The goal is **sustainable digital governance** through data-driven, transparent, and responsible AI.
 
 ## Project Context
-UIDAI Aadhar enrollment services generates a very large volume of data over time.However, **sudden drops, spikes, or irregular patterns** in enrollment process go unnoticed when monitoring is manual or get delayed.
+UIDAI Aadhaar enrollment services generates a very large volume of data over time.However, **sudden drops, spikes, or irregular patterns** in enrollment process go unnoticed when monitoring is manual or get delayed.
 
-Project identifies the gap by building an **AI-assisted analytical decision-support system** that automatically highlights the trends and anomalies to support the proactive governance using the insghts.
+Project identifies the gap by building an **AI-assisted analytical decision-support system** that automatically highlights the trends and anomalies to support the proactive governance using the insights.
 
 ### Problem Statement
 Uneven and unpredictable Aadhaar enrollment patterns can impact equitable access to digital identity services.  
@@ -59,7 +59,7 @@ If implemented, this solution can:
 
 ## 📂 Repository Structure
 
-Aadhar-Enrollment-Anomaly-Detection
+Aadhaar-Enrollment-Anomaly-Detection
 │
 ├── Data/ # Public dataset (CSV)
 ├── Notebook/ # Jupyter notebook analysis
